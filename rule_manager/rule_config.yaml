@@ -1,3 +1,15 @@
+abcdefg:
+  alerting: true
+  archive_time: null
+  archived: false
+  create_time: '2024-06-09T06:28:37.220111Z'
+  enabled: true
+  id: ru_05dad015-da2d-47f0-96df-4ddf50712345
+  resource_name: projects/730726949936/locations/europe/instances/4ba9bc69-b201-40f3-bdd2-4d288d75878b/rules/ru_05dad015-da2d-47f0-96df-4ddf50712345
+  revision_create_time: '2024-02-23T07:44:17.972799Z'
+  revision_id: v_1708674257_972712345
+  run_frequency: LIVE
+  type: MULTI_EVENT
 ag_ioc_sha256_hash_vt_basic:
   alerting: true
   archive_time: null
