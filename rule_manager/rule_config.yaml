@@ -1,6 +1,15 @@
 abcdefg:
   alerting: true
+  archive_time: null
+  archived: false
+  create_time: '2024-06-09T11:17:16.368847Z'
   enabled: true
+  id: ru_bf4cafa9-4e50-4cd0-9e5b-b3bc6ce5a3ab
+  resource_name: projects/730726949936/locations/europe/instances/4ba9bc69-b201-40f3-bdd2-4d288d75878b/rules/ru_bf4cafa9-4e50-4cd0-9e5b-b3bc6ce5a3ab
+  revision_create_time: '2024-06-09T11:17:16.368847Z'
+  revision_id: v_1717931836_368847000
+  run_frequency: LIVE
+  type: MULTI_EVENT
 ag_ioc_sha256_hash_vt_basic:
   alerting: true
   archive_time: null
