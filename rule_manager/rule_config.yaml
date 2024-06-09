@@ -1,3 +1,6 @@
+zaidtest:
+  alerting: true
+  enabled: true
 abcdefg:
   alerting: true
   archive_time: null
