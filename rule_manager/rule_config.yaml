@@ -1,6 +1,3 @@
-zaidtest:
-  alerting: true
-  enabled: true
 abcdefg:
   alerting: true
   archive_time: null
@@ -1609,3 +1606,15 @@ wmic_ntds_dit_T1003_003_cisa_report:
   revision_id: v_1708681509_817727000
   run_frequency: LIVE
   type: SINGLE_EVENT
+zaidtest:
+  alerting: true
+  archive_time: null
+  archived: false
+  create_time: '2024-06-09T11:53:09.712479Z'
+  enabled: true
+  id: ru_246107e6-3331-47b7-9cc2-0097913cff85
+  resource_name: projects/730726949936/locations/europe/instances/4ba9bc69-b201-40f3-bdd2-4d288d75878b/rules/ru_246107e6-3331-47b7-9cc2-0097913cff85
+  revision_create_time: '2024-06-09T11:53:09.712479Z'
+  revision_id: v_1717933989_712479000
+  run_frequency: LIVE
+  type: MULTI_EVENT
