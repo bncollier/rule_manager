@@ -1,3 +1,6 @@
+abentest:
+  alerting: true
+  enabled: true
 ag_ioc_sha256_hash_vt_basic:
   alerting: true
   archive_time: null
